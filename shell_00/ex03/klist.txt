@@ -1,0 +1,6 @@
+Credentials cache: API:7FA4FA9C-2105-4E17-A38B-F8BC993398A5
+        Principal: ctirions@S19.BE
+
+  Issued                Expires               Principal
+Sep  7 14:00:36 2020  Sep  8 00:00:36 2020  krbtgt/S19.BE@S19.BE
+Sep  7 14:00:37 2020  Sep  8 00:00:36 2020  HTTP/san-ssd.s19.be@S19.BE
